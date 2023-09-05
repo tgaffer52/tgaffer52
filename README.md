@@ -1,7 +1,8 @@
 ### Hello there!
-I'm currently working on a personal portfolio website
-I'm currently learning react.js
-Fun fact: I am 193 cm tall.
+# About me
+- I'm currently working on a personal portfolio website
+- I'm currently learning React.js
+- Fun fact: I am 193 cm tall.
 <!--
 **tgaffer52/tgaffer52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
