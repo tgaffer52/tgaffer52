@@ -1,7 +1,7 @@
 <h1 align="center">Hello there! I’m Trevor Gaffney</h1>
 <h3 align="center">A passionate Full Stack Developer from Colorado, USA.</h3>
 
-- 📫 How to reach me **tgaffer@gmail.com**
+- 📫 How to reach me **tgaffer52@gmail.com**
 
 - ⚡ Fun fact: **I am 193 cm tall.**
 
