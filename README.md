@@ -19,8 +19,8 @@ Bilingual Full Stack Developer working at Ferix Inc. I am from Colorado, USA, li
 | :---- | :---- | :---- | :---- | :---- |
 | Figma | Vue.js / Nuxt.js | Python | PostgreSQL | AWS |
 | Adobe | React.js | PHP | DynamoDB | Azure |
-| Canva | TypeScript / JavaScript | Express.js | MicroCMS | Terraform |
-|  | TailwindCSS | Google Apps Script | MySQL | Netlify |
-|  | HTML / CSS | FastAPI | SQLAlchemy |  |
+| Canva | TypeScript / JavaScript | Express.js | MySQL | Terraform |
+|  | TailwindCSS | Google Apps Script | SQLAlchemy | Netlify |
+|  | HTML / CSS | FastAPI | MicroCMS |  |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgaffer52&show_icons=true&locale=en&layout=compact" alt="tgaffer52" /></p>
