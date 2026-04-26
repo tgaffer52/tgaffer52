@@ -1,5 +1,5 @@
 # Trevor Gaffney
-Bilingual Full Stack Developer from Colorado, USA. Living in Yokohama, Japan.
+Bilingual Full Stack Developer working at Ferix Inc. I am from Colorado, USA, living in Yokohama, Japan.
 
 - Email: **tgaffer52@gmail.com**
 
