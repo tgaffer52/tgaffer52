@@ -19,8 +19,8 @@ Bilingual Full Stack Developer from Colorado, USA. Living in Yokohama, Japan.
 | :---- | :---- | :---- | :---- | :---- |
 | Figma | Vue.js / Nuxt.js | Python (FastAPI) | PostgreSQL | AWS (EC2) |
 | Adobe Illustrator | React.js | PHP | DynamoDB | Azure |
-| Canva | TypeScript / JavaScript | Express.js | MicroCMS | Docker |
-|  | TailwindCSS | Google Apps Script | SQLAlchemy | Terraform |
-|  | HTML / CSS |  |  | Netlify |
+| Canva | TypeScript / JavaScript | Express.js | MicroCMS | Terraform |
+|  | TailwindCSS | Google Apps Script | SQLAlchemy | Netlify |
+|  | HTML / CSS |  |  |  |
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tgaffer52&show_icons=true&locale=en&layout=compact" alt="tgaffer52" /></p>
