@@ -18,8 +18,8 @@ Bilingual Full Stack Developer working at Ferix Inc. I am from Colorado, USA, li
 | Design | Front-end | Back-end | DB | Cloud |
 | :---- | :---- | :---- | :---- | :---- |
 | Figma | Vue.js / Nuxt.js | Python | PostgreSQL | AWS |
-| Adobe | React.js | PHP | DynamoDB | Azure |
-| Canva | TypeScript / JavaScript | Express.js | MySQL | Terraform |
+| Adobe | React.js | PHP | MySQL | Azure |
+| Canva | TypeScript / JavaScript | Express.js | DynamoDB | Terraform |
 |  | TailwindCSS | Google Apps Script | SQLAlchemy | Netlify |
 |  | HTML / CSS | FastAPI | MicroCMS |  |
 
