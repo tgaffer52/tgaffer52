@@ -17,7 +17,7 @@ Bilingual Full Stack Developer from Colorado, USA. Living in Yokohama, Japan.
 ### Languages and Tools:
 | Design | Front-end | Back-end | DB | Cloud |
 | :---- | :---- | :---- | :---- | :---- |
-| Figma | Vue.js / Nuxt.js | Python (FastAPI) | PostgreSQL | AWS (EC2) |
+| Figma | Vue.js / Nuxt.js | Python (FastAPI) | PostgreSQL | AWS |
 | Adobe Illustrator | React.js | PHP | DynamoDB | Azure |
 | Canva | TypeScript / JavaScript | Express.js | MicroCMS | Terraform |
 |  | TailwindCSS | Google Apps Script | SQLAlchemy | Netlify |
