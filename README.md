@@ -10,6 +10,7 @@ Bilingual Full Stack Developer working at Ferix Inc. I am from Colorado, USA, li
 - Hobbies:
   - Gaming 🎮
   - Creative Writing ✍️
+  - Board Games ♟️
   - Coding 💻
  
 ### Connect with me:
