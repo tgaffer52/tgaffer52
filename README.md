@@ -2,7 +2,7 @@
 Bilingual Full Stack Developer working at Ferix Inc. I am from Colorado, USA, living in Yokohama, Japan.
 
 - Email: **tgaffer52@gmail.com**
-- Portfolio: **trevorgaffney.dev**
+- Portfolio: **[trevorgaffney.dev](https://trevorgaffney.dev)**
 
 - Fun facts:
   - I am 193 cm tall.
